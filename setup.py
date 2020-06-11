@@ -66,8 +66,8 @@ setup(
     license="Apache Software License 2.0",
     long_description=readme + "\n\n" + history,
     include_package_data=True,
-    keywords="dremio_client",
-    name="dremio_client",
+    keywords="dremio_client_oss",
+    name="dremio_client_oss",
     packages=find_packages(
         include=[
             "dremio_client",
